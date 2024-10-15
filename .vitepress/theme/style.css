@@ -183,11 +183,11 @@
 Mechanics
 ---------------------------------------------
 */
-.guide-item-link{
+/*.guide-item-link{
     display: flex;
     flex-direction: column;
     align-items: center;
-}
+}*/
 
 /* Plants */
 .img-mehanics-plants-block{
