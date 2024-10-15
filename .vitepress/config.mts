@@ -50,11 +50,11 @@ export default defineConfig({
           { text: 'Країни', link: '/mechanics/countries'},
           { text: 'Радіо', link: '/mechanics/radio'},
           { text: 'Рейки', link: '/mechanics/rails'},
-          { text: 'Фермерство', link: '/mechanics/farming'},
+          { text: 'Землеробство', link: '/mechanics/farming'},
           { text: 'Нові рослини', link: '/mechanics/new-plants'},
           { text: 'Їжа Борукви', link: '/mechanics/food'},
           {
-            text: 'Polydecorations',
+            text: 'Декор',
             collapsed: true,
             items: [
               { text: 'Молоток', link: '/mechanics/polydecorations/hammer'},
