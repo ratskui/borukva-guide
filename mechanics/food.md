@@ -39,7 +39,7 @@ next:
 
 <img src='/public/images\mechanics\food\board-craft.png' alt='дошка' class="img-mechanics-food-craft"></img>
 
-**- будь які види плит.*
+**- будь які види плит*
 
 **Крафт ножа:**
 
@@ -47,9 +47,58 @@ next:
 
 ## Рецепти
 
-Всі доступні рецепти за допомогою дошки:
-<img src='\images\mechanics\food\crafts.png' alt='крафти' class="img-mechanics-food-craft"></img>
+### Рецепти з кухонною дошкою:
 
-### інша їжа
+#### Шматок хліба
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/bread-to-slices.png' alt='Шматок хліба' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Шматочки яловичини
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/rawbeef-to-slices.png' alt='Шматочки яловичини' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Смажені шматочки яловичини
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/steak-to-slices.png' alt='Смажені шматочки яловичини' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Гостра приправа
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/peper-to-spice.png' alt='Гостра приправа' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Скибочки помідорів
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/tomato-to-slices.png' alt='Скибочки помідорів' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Скибочки огірків
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/cucumber-to-slices.png' alt='Скибочки огірків' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Філе лосося
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/salmon-to-filet.png' alt='Філе лосося' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Сало
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/porkchop-to-salo.png' alt='Сало' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Норі
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/kelp-to-nori.png' alt='Норі' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+#### Насіння соняшнику
+<center>
+<img src='/public/images/mechanics/food/cutting_board_recipes/sunflower-to-seeds.png' alt='Насіння соняшнику' class="img-mechanics-food-craft img-mechanics-food-cutting-board-recipes"></img>
+</center>
+
+### Інша їжа
 
 *Тимчасово!* Встановіть моди EMI + Polymer щоб бачити рецепти крафтів

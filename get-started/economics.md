@@ -19,13 +19,13 @@ next:
 <div class="div-get-started-economics-currencies">
     <ul class="ul-get-started-economics-currencies-list">
         <li class="li-get-started-economics-currencies-item"> 
-            НЗ — необроблене золото; <img src="/images/get-started/economics/nz.avif" class="img-economics-currency"></img>
+            НЗ — необроблене золото; <img src="/images/get-started/economics/nz.avif" class="img-economics-currency antialiasing-off"></img>
         </li>
         <li class="li-get-started-economics-currencies-item">
-            БНЗ — блок необробленого золота; <img src="/images/get-started/economics/bnz.avif" class="img-economics-currency"></img>
+            БНЗ — блок необробленого золота; <img src="/images/get-started/economics/bnz.avif" class="img-economics-currency antialiasing-off"></img>
         </li>
         <li class="li-get-started-economics-currencies-item">
-            СБНЗ — стак блоків необробленого золота; <img src="/images/get-started/economics/sbnz.avif" class="img-economics-currency"></img>
+            СБНЗ — стак блоків необробленого золота; <img src="/images/get-started/economics/sbnz.avif" class="img-economics-currency antialiasing-off"></img>
         </li>
     </ul>
 </div>

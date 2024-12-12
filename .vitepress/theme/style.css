@@ -183,11 +183,11 @@
 Mechanics
 ---------------------------------------------
 */
-/*.guide-item-link{
+.guide-item-link{
     display: flex;
     flex-direction: column;
     align-items: center;
-}*/
+}
 
 /* Plants */
 .img-mehanics-plants-block{
@@ -216,8 +216,12 @@ Mechanics
 .img-mechanics-food-craft{
     width: 500px;
 }
+.img-mechanics-food-cutting-board-recipes{
+    border: 4px solid #a8a8a8;
+}
 
 /*Food*/
 .img-mechanics-farming-craft{
     width: 500px;
+    
 }
