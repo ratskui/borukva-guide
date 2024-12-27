@@ -63,6 +63,8 @@ Java: https://adoptium.net/temurin/releases/?version=21&os=windows
 
 ## Встановлення офіційного модпаку Борукви
 
+[Збірка Борукви на Modrinth](https://modrinth.com/modpack/borukva-modpack)
+
 > Для гри не сервері не потрібні жодні обов'язкові моди. Ця збірка є набором модів на оптимізацію та на покращення якості гри.
 
 <!-- 

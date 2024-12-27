@@ -33,27 +33,27 @@
 ### GUI
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-main-gui.png" alt="main-gui" class="img-mechanics-voice-chat-gui"></img>
-
 Основний інтерфейс
+<img src="/public/images/mechanics/voice-chat/voice-chat-main-gui.png" alt="main-gui" class="img-mechanics-voice-chat-gui"></img>
+<br>
 </center>
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-players-volume-gui.png" alt="players-volume" class="img-mechanics-voice-chat-gui"></img>
-
 Налаштування гучності гравців
+<img src="/public/images/mechanics/voice-chat/voice-chat-players-volume-gui.png" alt="players-volume" class="img-mechanics-voice-chat-gui"></img>
+<br>
 </center>
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-settings-gui.png" alt="settings-gui" class="img-mechanics-voice-chat-gui"></img>
-
 Налаштування
+<img src="/public/images/mechanics/voice-chat/voice-chat-settings-gui.png" alt="settings-gui" class="img-mechanics-voice-chat-gui"></img>
+<br>
 </center>
 
 <center>
-<img src="/public/images/mechanics/voice-chat/voice-chat-group-gui.png" alt="group-gui" class="img-mechanics-voice-chat-gui"></img>
-
 Інтерфейс групи
+<img src="/public/images/mechanics/voice-chat/voice-chat-group-gui.png" alt="group-gui" class="img-mechanics-voice-chat-gui"></img>
+<br>
 </center>
 
 ## Де встановити?

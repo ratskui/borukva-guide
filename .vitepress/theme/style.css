@@ -183,11 +183,13 @@
 Mechanics
 ---------------------------------------------
 */
-/*.guide-item-link{
+.guide-item-link{
     display: flex;
     flex-direction: column;
     align-items: center;
-}*/
+    height: 100%;
+    width: 100%;
+}
 
 /* Plants */
 .img-mehanics-plants-block{
@@ -203,10 +205,12 @@ Mechanics
 .img-mechanics-rails-crafts{
     width: 450px;
 }
-
+.img-mechanics-custom-crafts{
+    width: 450px;
+}
 /*Voice chat*/
 .img-mechanics-voice-chat-gui{
-    width: auto;
+    width: 450px;
 }
 .img-mechanics-voice-chat-icon{
     width: auto;

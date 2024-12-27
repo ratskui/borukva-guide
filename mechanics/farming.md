@@ -23,7 +23,7 @@ next:
 
 Формула визначення швидкості:
 <!--***Швидкість_росту*** = Дефолтна_швидкість * (родючість/5). -->
-<img src='/public/images/mechanics/farming/speed.png'></img>
+<center><img src='/public/images/mechanics/farming/speed.png'></img></center>
 
 **Кислотність** грунту має триматися в межах від 3 до 7 включно, якщо вона виходить за ці рамки - швидкість росту сповільнюється в 3 рази.
 
@@ -40,7 +40,7 @@ next:
 ### Мінеральне добриво 
 - Крафтиться з аметистових уламків. Підвищує родючість на 2, зменшує кислотність на 1.
 
-<img src="/public/images/mechanics/farming/fertilizer.png" class="img-mechanics-farming-craft" alt="mineral_craft"></img>
+<center><img src="/public/images/mechanics/farming/fertilizer.png" class="img-mechanics-farming-craft antialiasing-off" alt="mineral_craft"></img></center>
 
 Є шанс 50% що родючість впаде на 1 одиницю після дозрівання рослини
 
@@ -54,7 +54,7 @@ next:
 
 Крафт:
 
-<img src="/public/images/mechanics/farming/soil_analizator_craft.png" class="img-mechanics-farming-craft" alt="analizator_craft"></img>
+<center><img src="/public/images/mechanics/farming/soil_analizator_craft.png" class="img-mechanics-farming-craft antialiasing-off" alt="analizator_craft"></img></center>
 
 Для використання натисніть ПКМ аналізатором по ріллі щоб дізнатися параметри ґрунту
 
@@ -69,5 +69,5 @@ next:
 > 
 Ативується редсоун сигналом. Можна тримати активованим для автоматичної спроби розпилення 1 раз на хвилину.  
 Крафт:
-<img src="/public/images/mechanics/farming/fertilizer-sprayer.png" class="img-mechanics-farming-craft" alt="sprayer_craft"></img>
+<center><img src="/public/images/mechanics/farming/fertilizer-sprayer.png" class="img-mechanics-farming-craft antialiasing-off" alt="sprayer_craft"></img></center>
 <!--фото і можна в принципі картинку як він працює.-->
