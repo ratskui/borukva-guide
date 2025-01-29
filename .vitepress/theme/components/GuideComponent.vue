@@ -13,7 +13,7 @@ import {sectionList} from "../../data/general";
   <div class="guide-grid">
     <div v-for="(item, itemIndex) in section.items" :key="itemIndex" class="guide-item">
       <a :href="item.link" class="guide-item-link" style="text-decoration: none;">
-        <img :src="item.image" :alt="item.name">
+        <img :src="item.image" :alt="item.name" :class="['antialiasing-off', item.customClass || '']">
         <span>{{ item.name }}</span>
       </a>
     </div>
@@ -85,19 +85,24 @@ import {sectionList} from "../../data/general";
 }
 
 .guide-item img {
+  padding: 3px;
   width: 100px;
   height: 100px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 50%;
   margin-bottom: 1rem;
   border: 3px solid var(--vp-c-brand);
   transition: all 0.3s ease;
+  
 }
 
 .guide-item span {
   color: var(--vp-c-text-1);
   font-size: 1rem;
   font-weight: bold;
+}
+.guide-img-cover {
+  object-fit: cover !important;
 }
 
 </style>

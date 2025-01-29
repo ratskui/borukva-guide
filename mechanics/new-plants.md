@@ -59,3 +59,4 @@ import PlantsList from '../.vitepress/theme/components/PlantsList.vue'
 <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_lemon_log.png" alt="">
 <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_planks.png" alt=""></div>
 
+

@@ -14,6 +14,7 @@ declare interface ISectionGroup extends Pick<IChannelItem, 'title'>{
 
 declare interface ISectionItem extends Pick<IChannelItem, 'image' | 'link'>{
   name: string;
+  customClass?: string;
 }
 
 declare interface IFishGroup extends Pick<IChannelItem, 'title'>{
