@@ -67,22 +67,22 @@ export const sectionList: ISectionGroup[] = [
   {
     title: 'Додано',
     items: [
-      { name: 'Нові рейки', image: '/borukva-guide/public/images/mechanics/general/turnout_rail.png', link: 'rails' },
-      { name: 'Артефакти', image: '/borukva-guide/public/images/mechanics/general/bonaqua_axe.png', link: 'artefacts' },
-      { name: 'Радіо', image: '/borukva-guide/public/images/mechanics/general/radio.png', link: 'radio', customClass: 'guide-img-fill' },
-      { name: 'Полотно для малювання', image: '/borukva-guide/public/images/mechanics/general/canvas.png', link: 'polydecorations/canvas' },
-      { name: 'Декілька видів дерев', image: '/borukva-guide/public/images/mechanics/general/lemon_sapling.png', link: 'new-plants' },
-      { name: 'Меблі', image: '/borukva-guide/public/images/mechanics/general/bench.png', link: 'polydecorations/furniture' },
-      { name: 'Куховарство', image: '/borukva-guide/public/images/mechanics/general/pickle_jar.png', link: 'food' },
+      { name: 'Нові рейки', image: '/public/images/mechanics/general/turnout_rail.png', link: 'rails' },
+      { name: 'Артефакти', image: '/public/images/mechanics/general/bonaqua_axe.png', link: 'artefacts' },
+      { name: 'Радіо', image: '/public/images/mechanics/general/radio.png', link: 'radio', customClass: 'guide-img-fill' },
+      { name: 'Полотно для малювання', image: '/public/images/mechanics/general/canvas.png', link: 'polydecorations/canvas' },
+      { name: 'Декілька видів дерев', image: '/public/images/mechanics/general/lemon_sapling.png', link: 'new-plants' },
+      { name: 'Меблі', image: '/public/images/mechanics/general/bench.png', link: 'polydecorations/furniture' },
+      { name: 'Куховарство', image: '/public/images/mechanics/general/pickle_jar.png', link: 'food' },
     ]
   },
   {
     title: 'Змінено',
     items: [
-      { name: 'Генерацію світу', image: '/borukva-guide/public/images/mechanics/general/screenshot.png', link: 'world-gen', customClass: 'guide-img-cover'},
-      { name: 'Фермерство', image: '/borukva-guide/public/images/mechanics/general/harvest_sickle.png', link: 'farming' },
-      { name: 'Вагонетки', image: '/borukva-guide/public/images/mechanics/general/minecart.webp', link: 'rails' },
-      { name: 'Торгівлю з жителями', image: '/borukva-guide/public/images/mechanics/general/villager.webp', link: 'villagers' },
+      { name: 'Генерацію світу', image: '/public/images/mechanics/general/screenshot.png', link: 'world-gen', customClass: 'guide-img-cover'},
+      { name: 'Фермерство', image: '/public/images/mechanics/general/harvest_sickle.png', link: 'farming' },
+      { name: 'Вагонетки', image: '/public/images/mechanics/general/minecart.webp', link: 'rails' },
+      { name: 'Торгівлю з жителями', image: '/public/images/mechanics/general/villager.webp', link: 'villagers' },
       //{ name: 'Риболовлю', image: '/borukva-guide/images/guide/placeholder.webp', link: 'fishing' },
     ]
   }
