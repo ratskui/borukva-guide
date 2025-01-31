@@ -14,7 +14,7 @@ next:
 import PlantsList from '../.vitepress/theme/components/PlantsList.vue'
 </script>
 
-# Нові рослини
+# 🌾Нові рослини
 
 >Сам ти овоч  
 
@@ -44,19 +44,33 @@ import PlantsList from '../.vitepress/theme/components/PlantsList.vue'
 <PlantsList sectionTitle="Дерева" />
 
 
-Коли дерево виростає, в нього з'являється квітуче листя - з нього падають нові плоди.
+Коли дерево виростає, в нього з'являється квітуче листя - при натисканні з нього падають нові плоди. Через час вони відновлюються.
 
 ### Деревина та дошки
 
 #### Авокадо:
 
-<div class="div-flex"><img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_log.png" alt="">
-<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_avocado_log.png" alt="">
-<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_planks.png" alt=""></div>
+<div class="div-flex" style="justify-content: space-evenly; margin-top: 3px;">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_log.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_wood.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_avocado_log.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_avocado_wood.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_planks.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_slab.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/avocado_trapdoor.png" alt="">
+    <img class="img-mehanics-plants-block plants-block-door" src="/public/images/mechanics/new-plants/avocado_door.png" alt="">
+</div>
 
 #### Лимон:
-<div class="div-flex"><img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_log.png" alt="">
-<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_lemon_log.png" alt="">
-<img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_planks.png" alt=""></div>
+<div class="div-flex" style="justify-content: space-evenly; margin-top: 3px;">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_log.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_wood.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_lemon_log.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/stripped_lemon_wood.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_planks.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_slab.png" alt="">
+    <img class="img-mehanics-plants-block" src="/public/images/mechanics/new-plants/lemon_trapdoor.png" alt="">
+    <img class="img-mehanics-plants-block plants-block-door" src="/public/images/mechanics/new-plants/lemon_door.png" alt="">
+</div>
 
 

@@ -1,4 +1,4 @@
-# Полотно
+# 🎨Полотно
 
 >Завжди хотіли малювати картини, але на мап-арти не було ресурсів? Тоді цей гайд саме для вас
 
@@ -34,7 +34,7 @@
 
 ### Дублювання
 
-<center><img src="/public/images/mechanics/canvas/canvas-duplication.png" alt="Полотно+полотно"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-duplication.png" alt="Полотно+полотно"></img></center>
 
 Як і мапи, готове полотно можна продублювати об'єднавши його з пустим
 >*Автор полотна може заблокувати дублювання для інших гравців. [Команда](/get-started/commands.md)*
@@ -42,32 +42,32 @@
 ### Заливка та очищення
 
 Для заливки полотна одним кольором, об'єднайте його з барвником.
-<center><img src="/public/images/mechanics/canvas/canvas-fill.png" alt="Полотно+барвник"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-fill.png" alt="Полотно+барвник"></img></center>
 
 > *При крафті барвник витрачається*
 
 Для очистки <ins>заднього фону</ins>, з відром води
-<center><img src="/public/images/mechanics/canvas/canvas-with-water.png" alt="Полотно+вода"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-with-water.png" alt="Полотно+вода"></img></center>
 
 > *Вода з відра не витрачається*
 
 ### Прозорий фон
 
 Прозорий фон можна отримати об'єднавши полотно з ножицями
-<center><img src="/public/images/mechanics/canvas/canvas-shears.png" alt="Полотно+ножиці"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-shears.png" alt="Полотно+ножиці"></img></center>
 
 >*Після цього малювати на ньому не можна*
 
 Щоб повернути фон, додайте папір
 
-<center><img src="/public/images/mechanics/canvas/canvas-with-paper.png" alt="Полотно+папір"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-with-paper.png" alt="Полотно+папір"></img></center>
 
 ### Блокування та яскравість
 
 Якщо полотно завершене, ви можете об'єднати його з воском для блокування.
 
-<center><img src="/public/images/mechanics/canvas/canvas-closed.png" alt="Полотно+віск"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-closed.png" alt="Полотно+віск"></img></center>
 
 Для підвищення яскравості (*краще видно вночі*) з сяйним чорнильним мішком
 
-<center><img src="/public/images/mechanics/canvas/canvas-brigtness.png" alt="Полотно+мішечок"></img></center>
+<center><img src="/images/mechanics/canvas/canvas-brigtness.png" alt="Полотно+мішечок"></img></center>

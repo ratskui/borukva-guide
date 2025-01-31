@@ -10,9 +10,11 @@
 - Броня та зброя мають трохи вищий захист(*+0.5 міцности та +1 до стійкости відкидання*) та шкоду (*+1*) відповідно.
 - Базова швидкість копання в інструментів відповідна золотим.
 
+<!--
 <center>
-<img  src="#" alt="artefact_stats"> <!--Картинка характеристик артефакту-->
+<img  src="#" alt="artefact_stats"> Картинка характеристик артефакту
 </center>
+-->
 
 ## Крафт
 
@@ -21,7 +23,9 @@
 ### Фрагменти
 
 <center>
-<img src="#" height=50% width=50% alt="artefact_resourse"></img>
+<br>
+<img src="/public/images/mechanics/artefacts/materials.png" alt="artefact_resourse" class="img-artefacts" style="border-radius: 4px;"></img>
+<br>
 </center>
 <!-- TODO: Переписати цей фрагмент коли буде більше методів отримання-->
 Основний ресурс для крафту артефактів. Зазвичай знайти їх можна в скринях та бочках різноманітних данжів (Від простих спавнерів до цитаделей).
@@ -44,7 +48,7 @@
 
 <center>
 
-<img src="#" height=40% width=50% alt="artefact_upgrade"></img>
+<img src="/public/images/mechanics/artefacts/artefact_upgrade.png" alt="artefact_upgrade" class="img-artefacts" style="border-radius: 4px;"></img>
 
 Апгрейд артефакту в ковальському столі
 

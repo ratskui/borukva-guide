@@ -63,6 +63,9 @@ export const channelsList: IChannelItem[] = [
   },
 ];
 
+
+
+
 export const sectionList: ISectionGroup[] = [
   {
     title: 'Додано',
@@ -87,6 +90,17 @@ export const sectionList: ISectionGroup[] = [
   }
 ]
 
+
+
+
+/*
+-------------------------------------------------------------
+
+РИБОЛОВЛЯ
+
+-------------------------------------------------------------
+*/ 
+
 export const rodList: IFishGroup[] = [
   {
     title: "Basic Rods",
@@ -101,8 +115,6 @@ export const rodList: IFishGroup[] = [
   },
 ];
 
-
-
 export const crateList: ICratesGroup[] = [
   {
     title: "Ocean Crates",
@@ -116,8 +128,6 @@ export const crateList: ICratesGroup[] = [
     ],
   },
 ];
-
-
 
 export const fishList: IFishGroup[] = [
   {
@@ -212,6 +222,15 @@ export const fishList: IFishGroup[] = [
   }
 ]
 
+
+/*
+-------------------------------------------------------------
+
+РОСЛИНИ
+
+-------------------------------------------------------------
+*/ 
+
 export const plantsList: IPlantsGroup[] = [
   {
     title: 'Овочі',
@@ -265,6 +284,12 @@ export const plantsList: IPlantsGroup[] = [
         seedimage: '/borukva-guide/images/mechanics/new-plants/rice.png',
         place: ['Нюхач']
       },
+      {
+        name: 'Пекельна пшениця',
+        image: '/borukva-guide/images/mechanics/new-plants/nether_wheat.png',
+        seedimage: '/borukva-guide/images/mechanics/new-plants/nether_wheat_seeds.png',
+        place: ['Бастіон']
+      }
     ]
   },
   {
